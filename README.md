@@ -1,4 +1,3 @@
 # My Static Website
 
-I am learning how to use GitHub...  
-See you at [https://idolinux.com/](https://idolinux.com/)
+My public bookmarks, learning my way with GitHub and sharing interesting content with the world at the same time.
